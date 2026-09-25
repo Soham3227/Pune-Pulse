@@ -1,0 +1,10 @@
+{
+  "name": "pune-pulse",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server-v2.mjs",
+    "test": "node --test news.test.mjs relevance.test.mjs categories.test.mjs"
+  },
+  "dependencies": {}
+}
